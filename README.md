@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+Apk link：https://github.com/houzhe1228/Group8_ArtfolioApp/releases/download/apk/app-release.apk
+PPT link: https://docs.google.com/presentation/d/1HIot8WhqEaXXlyhVQ4u121-6LzTTYwyGmvgWpaSqCLQ/edit?usp=sharing
+Youtube link: https://www.youtube.com/watch?v=m-mSJnkmPY8
